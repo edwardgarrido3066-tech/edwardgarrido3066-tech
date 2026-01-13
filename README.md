@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --><img width="2048" height="2048" alt="blob" src="https://github.com/user-attachments/assets/7412ed1b-0b0c-4f88-bc9a-267aab23f9ba" />
 
-<img width="601" height="601" alt="blob" src="https://github.com/user-attachments/assets/d10977e5-1bae-4538-a9d4-a67942f8ddcd" />
-<img width="601" height="601" alt="blob" src="https://github.com/user-attachments/assets/ec49a967-360b-47e4-92d8-0188de45947b" />
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/04471e2a-a2d1-4362-bc43-e1e17a1c0d53" />
+<p align="center">
+  <img src="CERT_URL_1" width="160">
+  <img src="CERT_URL_2" width="160">
+  <img src="CERT_URL_3" width="160">
+  <img src="CERT_URL_4" width="160">
+</p>
  
