@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --><img width="2048" height="2048" alt="blob" src="https://github.com/user-attachments/assets/7412ed1b-0b0c-4f88-bc9a-267aab23f9ba" />
 
+## 🎓 Certifications
+
 <p align="center">
-  <img src="CERT_URL_1" width="160">
-  <img src="CERT_URL_2" width="160">
-  <img src="CERT_URL_3" width="160">
-  <img src="CERT_URL_4" width="160">
+  <img src="LN_FOR_JOBS_BADGE_URL" width="140" />
+  <img src="SECURITY_PLUS_BADGE_URL" width="140" />
+  <img src="AWS_CLOUD_QUEST_BADGE_URL" width="140" />
+  <img src="RHCSA_BADGE_URL" width="140" />
 </p>
  
