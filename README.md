@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://images.credly.com/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png" width="140" />
-  <img src="https://images.credly.com/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="140" />
-  <img src="https://images.credly.com/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" width="140" />
-  <img src="https://images.credly.com/images/324d0343-3d1b-465b-948f-316f32a1a142/blob" width="140" />
+  <img src="https://images.credly.com/images/80d8a06a-c384-42bf-ad36-db81bce5adce/image.png" width="140" />
+  <img src="https://images.credly.com/images/30816e43-2550-4e1c-be22-3f03c5573bb9/image.png" width="140" />
+  <img src="https://images.credly.com/images/324d0343-3d1b-465b-948f-316f32a1a142/image.png" width="140" />
 </p> 
