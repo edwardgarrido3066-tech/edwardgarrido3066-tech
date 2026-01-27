@@ -3,7 +3,7 @@
 <!-- Hero Section -->
   
 
-## My name is Edward, 
+## My name is Edward Garrido
 
 I am a Linux System Administrator with a strong focus on enterprise Linux environments and automation. I hold the **Red Hat Certified System Administrator (RHCSA), CompTIA Security+, and the AWS Cloud Quest: Cloud Practitioner credential** I’m currently expanding my Red Hat skillset and actively working toward my Red Hat Certified Engineer (RHCE) certification, with a focus on Ansible automation and scalable system management.
 
